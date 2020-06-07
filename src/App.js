@@ -1,9 +1,9 @@
 import React from 'react';
+import RestaurantScreen from './components/RestaurantScreen';
 
 const App = () => (
   <div>
-    Hello, World!
-    <p>This is Abhishek.</p>
+    <RestaurantScreen />
   </div>
 );
 
